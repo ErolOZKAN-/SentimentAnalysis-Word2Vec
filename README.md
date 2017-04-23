@@ -1,3 +1,5 @@
 # SentimentAnalysis-Word2Vec
 
-Implementation of tutorial hosted at https://www.kaggle.com/c/word2vec-nlp-tutorial.
+Sentiment analysis using word2vec.
+
+Implementation of https://www.kaggle.com/c/word2vec-nlp-tutorial.
